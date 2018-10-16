@@ -1,7 +1,7 @@
 import React from 'react';
 import firebase from 'firebase'
 import "./Speaker.css"
-import {Button,Collapse, Navbar, NavbarToggler, NavbarBrand, Nav, NavItem, NavLink, UncontrolledDropdown,
+import {Button,Collapse, Navbar, NavbarToggler, NavbarBrand, Nav, UncontrolledDropdown,
         DropdownToggle, DropdownMenu, DropdownItem } from 'reactstrap';
 
 class Speaker extends React.Component {
