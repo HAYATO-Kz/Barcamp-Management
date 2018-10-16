@@ -16,3 +16,9 @@
     text-align: right;
     background-color: #F5F5F5
 }
+.PopoverBody {
+    background-color:  #F5F5F5
+}
+.startTimeButton {
+    margin-right : 5px ;
+}
