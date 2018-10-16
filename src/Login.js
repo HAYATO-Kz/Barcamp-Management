@@ -58,7 +58,7 @@ class Login extends Component {
                     <DropdownItem onClick={() => this.props.history.push('/speaker')}>Speaker</DropdownItem>
                     <DropdownItem>Audience</DropdownItem>
                     <DropdownItem divider />
-                    <DropdownItem style={{color: 'red'}} onClick={() => firebase.auth().signOut()}>Sign out!</DropdownItem>
+                    <DropdownItem style={{color: 'red'}} onClick={() => firebase.auth().signOut()}>Sign out</DropdownItem>
                   </DropdownMenu>
                 </ButtonDropdown>
               </span>
