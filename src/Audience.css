@@ -1,0 +1,16 @@
+.Logo{
+    font-family: 'Permanent Marker', cursive;
+    font-size: 60px;
+    color: white;
+    margin: 30px;
+}
+
+.HeaderTap{
+    font-family: 'Rajdhani', sans-serif;
+}
+
+.LogoBar{
+    background-color: black;
+    display: flex;
+    height: 150px;
+}
