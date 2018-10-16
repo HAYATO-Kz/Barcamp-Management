@@ -55,10 +55,10 @@ class Login extends Component {
                     Button Dropdown
                   </DropdownToggle>
                   <DropdownMenu>
-                    <DropdownItem onClick={() => this.props.history.push('/speaker')}>Speakeพ</DropdownItem>
+                    <DropdownItem onClick={() => this.props.history.push('/speaker')}>Speaker</DropdownItem>
                     <DropdownItem>Audience</DropdownItem>
                     <DropdownItem divider />
-                    <DropdownItem onClick={() => firebase.auth().signOut()}>Sign out!</DropdownItem>
+                    <DropdownItem color ="red" onClick={() => firebase.auth().signOut()}>Sign out!</DropdownItem>
                   </DropdownMenu>
                 </ButtonDropdown>
               </span>
