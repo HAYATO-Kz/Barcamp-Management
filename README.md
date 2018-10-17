@@ -15,7 +15,7 @@ This software is developed as a part of 01219245	Individual Software Development
 
 # Process component
 
-- [Itetarion plan](https://docs.google.com/document/d/1Rgc001Dfoua7d_2h5QIUkz8g506RptY44aE9Lc6ELpM/edit?usp=sharing)
+- [Itetarion plan](https://github.com/JP-SKE15/Barcamp-Management/blob/master/IterationPlan-and-Design/IterationPlan.md)
 - [Issue tracker](https://github.com/JP-SKE15/Barcamp-Management/issues)
 - Task board : [![Waffle.io - Issues in progress](https://badge.waffle.io/JP-SKE15/Barcamp-Management.png?label=in%20progress&title=In%20Progress)](http://waffle.io/JP-SKE15/Barcamp-Management)
-- [Web design]()
+- [Web design](https://github.com/JP-SKE15/Barcamp-Management/blob/master/IterationPlan-and-Design/design.md)

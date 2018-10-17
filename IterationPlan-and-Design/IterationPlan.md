@@ -1,3 +1,4 @@
+# Iteration Plan
 | Iteration | Date | Goal | Milestone | Feature | Task |
 | :--- | :---: | :---: | :---: | :---: | :--- |
 | 1 | 11 Oct - 15 Oct | Make user can login with their github ID or Google ID | Login | - User can login with Github ID and Google ID | - Login interface [3 days] <br/> - Connect React with Django [1 day] <br/> - Use firebase with Django [1 day] |
