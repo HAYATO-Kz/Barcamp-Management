@@ -1,0 +1,7 @@
+| Iteration | Date | Goal | Milestone | Feature | Task |
+| :--- | :---: | :---: | :---: | :---: | :--- |
+| 1 | 11 Oct - 15 Oct | Make user can login with their github ID or Google ID | Login | - User can login with Github ID and Google ID | - Login interface [3 days] <br/> - Connect React with Django [1 day] <br/> - Use firebase with Django [1 day] |
+| 2 | 16 Oct - 30 Oct | Make speaker can see all of topic that added and can add new topic  | Speaker interface | - Webpage show all topic that added <br/> - Speaker can add new topic| - Basic interface [3 days] <br/> - Connect add topic [12 days] |
+| 3 | 31 Oct - 8 Nov | Make attendee can see all of topic and their description and can vote topic that choose  | Attendee interface | - Webpage show topic <br/> - Attendee can see topic description and time of topic that they select <br/> - Attendee can vote topic | - Basic interface [3 days] <br/> - Show topic, description and time [3 days] <br/> - Can vote topic [3 days] |
+| 4 | 9 Nov - 18 Nov | Make organizer can manage room and time for each topic  | Organizer interface | - Organizer can see how many vote that topic have <br/> - Organizer can manage topic and time for each room | - Manage room [9 days] |
+| 5 | 19 Nov - 21 Nov | Make everyone can see time table although they didn’t login | - Time table interface | Add time table for each room | - Show time table [2 days] |
