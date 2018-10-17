@@ -1,6 +1,6 @@
 # Barcamp-Management
 
-Barcamp management is a web application for manage Barcamp event. Make Managing event conveniently than manual is the main focus for this application
+Barcamp management is a web application for manage Barcamp event. Make managing event conveniently than manual is the main focus for this application
 
 This software is developed as a part of 01219245	Individual Software Development Process at Kasetsart University
 
